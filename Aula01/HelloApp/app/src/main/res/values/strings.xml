@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="texto_ingles">Hello Word!</string>
+    <string name="texto_portugues">Olá Mundo!</string>
+    <string name="button_texto_traduzir">Traduzir</string>
+    <string name="button_texto_reiniciar">Reiniciar</string>
+</resources>
